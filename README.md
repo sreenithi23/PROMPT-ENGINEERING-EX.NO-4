@@ -1,5 +1,5 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for follwoing prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE: 27-02-2026
+### DATE: 30-04-2026
 ### NAME: Sreenithi E
 ### REGISTER NUMBER : 212223220109
 ### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
